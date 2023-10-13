@@ -28,7 +28,7 @@ module.exports = {
             description: 'ARPL-I18n使用指南 - Ver.0.0.1'
     },
 
-    base: '/arpl-i18n/',
+        base: '/arpl-i18n/tree/docs/',
 
     watch: {
         $page(newPage, oldPage) {
