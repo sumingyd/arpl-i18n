@@ -87,9 +87,9 @@ module.exports = {
                     sidebar: [
                         {
                             title: '故障诊断',
-                            collapsable: false,
+                            collapsable: true,
                             children: [
-                                '/README',
+                                ['/README', 'Penryn'],
                             ]
                         },
                     ],
