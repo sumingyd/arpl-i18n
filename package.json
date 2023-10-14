@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sumingyd/arpl-i18n/tree/docs.git"
+        "url": "git+https://github.com/sumingyd/arpl-i18n.git"
     },
     "scripts": {
         "dev": "vuepress dev",
